@@ -30,4 +30,4 @@ From the picture above, we can see that overall the housing price fits the model
 ### Conclusion
 Features such as overall quanlity, living area, garage cars, garage area, total Bsmt SF, 1st Flr SF, year built, full bath are the factors affect housing price mostly. And the result can intuitively reflect our analysis. For better analysis, we can use multi layer neural networks for analysis.
 
-[Code](https://docs.github.com/categories/github-pages-basics/).
+[Source Code](https://github.com/datascientistlyg/udacity_projects/blob/main/udacity_project1.ipynb).
