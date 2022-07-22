@@ -4,17 +4,19 @@ I am really interested in real estate market and always interested what causing 
 
 I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
 
-1. What are the factors which affects the housing price mostly?
-2. Is the result be intuitively verified?
+1. How the factors correlated with each other?
+2. What are the factors which affects the housing price mostly?
+3. Is the result be intuitively verified?
 
 ### What are the factors between each factors?
 
 ![image](https://user-images.githubusercontent.com/109795677/180426545-187fabcc-b7e7-4039-9b12-433a132561ff.png)
-The heatmap above show the relations between housing price and each factors, below boxplot provides a clearer information about the degree of the factors affect the housing price. 
+The heatmap above show the relations between each factors. 
 
+### What are the factors which affects the housing price mostly?
 ![image](https://user-images.githubusercontent.com/109795677/180427232-72b57142-af3f-4a81-b73c-09356026a87c.png)
 
-It is clear that overall quanlity, living area, garage cars, garage area, total Bsmt SF, 1st Flr SF, year built, full bath are the factors affect housing price mostly.
+The boxplot provides a clearer information about the degree of the factors affect the housing price. It is clear that overall quanlity, living area, garage cars, garage area, total Bsmt SF, 1st Flr SF, year built, full bath are the factors affect housing price mostly.
 
 ### Can the result be intuitively verified?
 
