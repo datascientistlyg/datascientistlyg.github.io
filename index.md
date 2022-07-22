@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## What Will Affect Your Housing Price
 
-You can use the [editor on GitHub](https://github.com/datascientistlyg/datascientistlyg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am really interested in real estate market and always interested what causing the housing price.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
 
 ### Markdown
 
