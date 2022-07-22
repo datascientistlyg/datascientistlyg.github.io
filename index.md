@@ -1,11 +1,11 @@
-## What Will Affect Your Housing Price
+## What Factors Will Affect Your Housing Price
 
 I am really interested in real estate market and always interested what causing the housing price.
 
 I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
 
 1. What are the factors which affects the housing price mostly?
-2. Is the result intuitively accurate?
+2. Is the result be intuitively verified?
 
 ### What are the factors between each factors?
 
@@ -14,32 +14,15 @@ The heatmap above show the relations between housing price and each factors, bel
 
 ![image](https://user-images.githubusercontent.com/109795677/180427232-72b57142-af3f-4a81-b73c-09356026a87c.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is clear that overall quanlity, living area, garage cars, garage area, total Bsmt SF, 1st Flr SF, year built, full bath are the factors affect housing price mostly.
 
-```markdown
-Syntax highlighted code block
+### Can the result be intuitively verified?
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/109795677/180429484-3d763a6b-1c50-4f41-bacc-1fa7bfabd35b.png)
 
-- Bulleted
-- List
+From the picture above, we can see that overall the housing price fits the model although some of the extreme values do not fit. 
 
-1. Numbered
-2. List
+### Conclusion
+Features such as overall quanlity, living area, garage cars, garage area, total Bsmt SF, 1st Flr SF, year built, full bath are the factors affect housing price mostly. And the result can intuitively reflect our analysis. For better analysis, we can use multi layer neural networks for analysis.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datascientistlyg/datascientistlyg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Code](https://docs.github.com/categories/github-pages-basics/).
